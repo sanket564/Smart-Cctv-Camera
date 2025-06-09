@@ -42,3 +42,4 @@ def spot_diff(frame1, frame2):
     cv2.destroyAllWindows()
 
     return 1
+    #check the file
